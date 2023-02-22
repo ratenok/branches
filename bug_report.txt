@@ -1,0 +1,13 @@
+The structure of a bug report:
+  1) Bug ID
+  2) Summary
+  3) Description
+  4) Steps to reproduce
+  5) Actual result
+  6) Expected result
+  7) Environment
+  8) Severity
+  9) Priority
+  10) Reported by
+  11) Reported on
+  12) Status
