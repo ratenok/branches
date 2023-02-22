@@ -1,0 +1,7 @@
+The structure of a checklist:
+   1) ID
+   2) Environment
+   3) Title
+   4) Input parameters
+   5) Expected result
+   6) Status 
